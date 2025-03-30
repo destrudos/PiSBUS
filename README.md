@@ -61,9 +61,7 @@ rpi-sbus-dashboard/
 ├── app.py         → Dash dashboard (HTTP server)
 ├── main.py        → SBUS sniffer (UART → JSON)
 ├── shared.json    → Data buffer (generated automatically)
-├── start.sh       → Script to launch both services
-├── README.md      → Project documentation
-└── dashboard-animation.gif → Screen recording of the dashboard
+└── README.md      → Project documentation
 ```
 
 ---
